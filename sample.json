@@ -1,0 +1,5 @@
+[
+    {"host": "www.reddit.com", "blockbetween": ["0830-1130", "1730-2130"]},
+    {"host": "news.ycombinator.com", "blockbetween": ["0900-1130", "1230-1730"]},
+    {"host": "news.google.com"}
+]
